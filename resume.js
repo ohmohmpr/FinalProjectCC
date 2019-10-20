@@ -5,7 +5,8 @@ function clickToChangName() {
     document.getElementById("name").innerHTML = person;
 }
 function clickToChangBackGroundColor() {
-    document.getElementById("body").style.backgroundColor = "pink";
+    document.getElementById("Body").style.backgroundColor = "pink";
+    
 }
 function pleaseClick() {
     alert("Click My photo to change colour");
